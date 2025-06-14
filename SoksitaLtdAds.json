@@ -1,0 +1,260 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 0,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": false,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "Music Dadju & lyrics Offline",
+      "packageName": "com.Anonyme.Dadju.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/gWsdKTVNf98VuRNUZmcx1Nq_hMEd6rJc_HxoThL3L48j2H3aMGQHf8ezpS50QFFl2w=w240-h480-rw",
+      "download": "+50K"
+    },
+    {
+      "name": "Music RK & Lyrics Offline",
+      "packageName": "com.Ryad.Kartoum.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/x-gjCYLoz-wqaEiLbDDO5vNNoKSeimcXvBEp8oOLvPlqRV-ZlApWSziZ61h0E0H3foU=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Maitre Gims & Lyrics",
+      "packageName": "com.Gims.Maitre.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/t0aaN8RpiUL7jOnF6U69M2AG6do5g7wBGvJeH3n_EY6I6jw63OAfcZemS_5ky_QO4w=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Ninho & Lyrics Offline",
+      "packageName": "com.BigPac.Ninho.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/EVqMMgWgCogDcPV6wb_bRO93ND0wdy4TQXlhBACOHojXFklYnATCJXntoPds8WKzl84=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Tayc & Lyrics Offline",
+      "packageName": "com.Encorps.Tayc.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/j7ueOLKVAxJMQ1dRCZlhMzLMlZNdFuf53zn9zCj2iWeZ8jP9XW4-27pLbsJTAywyZi0=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Aya Nakamura Offline",
+      "packageName": "com.Nakamura.Aya.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/oJUA8aS39NaGMqkk8lVVTptImKVxCH3pEdpfdwCx-Ty9Kc5j7dRmSvSeGTLl2UAdHRb5=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Songs Michael Jackson Offline",
+      "packageName": "com.Michael.Jackson.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/sluixVmGkqoDtsLYxrSDX6ePIPJsaHbWbJe2wRIm8mP4hSLW-rEos_aRSNVx-sMuQ8E=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music JuL Sans Internet",
+      "packageName": "com.LaRecette.JuL.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/DIw3CpDRYEolnniQ8dA9tcOP_Lteh0SSDSBilFXdL9AzGPmaNErGDvTG6txY2xCimg=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Xxxtentation & Lyrics",
+      "packageName": "com.Slipknot.Xxxtentacion.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/FR5quA-_ikbooyxm0qdNJpPY9sYobQ20_D998HHgO1sfFDI9Zf_Rtxo5dALpKSabcrg=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Niska & Lyrics Offline",
+      "packageName": "com.Georges.Niska.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/06DhSCHIRGUOq-RAzbR1CdriPAWJ7XkHFaaM8BNBJXfoQXeQboU6veo3wPhy7Kwdbw=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Kob Lad & lyrics Offline",
+      "packageName": "com.Lad.Koba.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/WkYrxSooDrv1U7sC9Db5kxVs3-3GQBnQNKDYqRCK2lZixxhPrxaUeVsTQT133YudtFNX=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Fally ipupa & Lyrics",
+      "packageName": "com.Ipuppa.Fally.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/PS8nRJ2kwf4HxAZoIvNTxY-1aiMBPFQdkaFmUv9kl9KvO8Nxi3htbv1btH9rM9Rhq-s=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "Music Soprano & lyrics Offline",
+      "packageName": "com.Casanova.Soprano.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/k-UyVNwBaIno5F2ZKrDW8xPxuqEO0IK4lLMcjR4ImaZvaY5THBhCo_tSsEBrVbeIRl4=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Songs Karol G Offline",
+      "packageName": "com.KarolG.AElla.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/ktbD6QVK5S-HFrCMfMob_JtM8ms7uSKaG57YPgmWT42Cy6hroyG0Gd7ncJRa75tJAadY=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "Music Wejdene & lyrics offline",
+      "packageName": "com.AlloCoCo.Wejdene.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/u9I5bIGwCXIhfB2-sVItmoBVrrxyVmpvyWT_MyE2uKTXLqc6EQtW5IfMLSn4cdFjP8Y=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Music Kendji Girac Offline",
+      "packageName": "com.Girac.Kendji.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/nqnOVkER6qiDcRcSesu8uSWKIO2JILjF46DpAmcr4DRiH5wEWL-VizNSzcMH_5_5-XE=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های ايرانى آفلاین",
+      "packageName": "com.Iranine.Musicmix.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/8lSTeM6TTje6H09klxLUrMd36E_G2wuUf692-Ctvhjz5dwsyNlXDzFDUeJZsznDm4w=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های اندی أفلاین",
+      "packageName": "com.Madadian.Andy.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/9E3E4hLLFJyYtoBKLvuKk8RidEqBzV3yAgjKaXnHWHFv7OIAdMlS2FTemcLqYWlZqDE=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های داریوش اقبالی آفلاین",
+      "packageName": "com.Eghbali.Dariush.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/gJ4EuZ3pUQhsffU7LUVe_xQXSAPEMTCHqRr2Yin7t9AFg4_fKcGaNPl6lFCH6FZeD6Be=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنگ های گوگوش آفلاین",
+      "packageName": "com.Googoosh.Faegheh.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/jhEy4tBeu-Ob758UBH1a8K-9malRMf27gwzchkUI_99BP35jCnM3_JUmgUa9Ep20wqY=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "آهنگ های لیلا فروهر آفلاین",
+      "packageName": "com.Forouhar.Leila.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/gvkRsmYikqNS-CLpBaFrZDj7j5mmy0F6Ofokd6clNezMfWzeH-EUxDwhIGy8cizgv8k=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنگ های حسن شماعی زاده آفلاین",
+      "packageName": "com.Shamaeezadeh.Hassan.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/D7AvabFCEe9gcZO59HV0EGhNebdGYHsqvd2kEoxI4k5rd8wTQzhx_wPk5xm0Vl-gzA5x=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های ابــی آفلاین",
+      "packageName": "com.Hamedi.Ebrahim.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/zeyBimrnV4N7OVRZ6D5Fy3Kh8iT_4u1tjD8GoDpKkMdweCl8nAogDQn0pGgBwBzmvUQ=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های حبیب محبیان آفلاین",
+      "packageName": "com.Mohebian.Habib.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/LNzLY-hBd696X6JIfBz0fCbPxpsCwfl8whGuABkR6UB7E9dnXsKtGB1l2rHQJZYOCg=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنگ های رضا بهرام آفلاین",
+      "packageName": "com.Bahram.Reza.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/cMGznjFEK3PA0RMsrciLD0UW9YUjCLj3L_C6vx4EHLxznloxI2jpiEmMcLIcMjSMODI=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "آهنگ های کسری زاهدی آفلاین",
+      "packageName": "com.Zahedi.Kasra.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/-6cEm2-pon8F5CDROS_13MLeF2wRohHrUNK7T6s1zvzddYKqVbmrNj0iYKwW6vhP_w=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنگ های هایده آفلاین",
+      "packageName": "com.Massoumeh.Hayedeh.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/lmqPRjyP2EjftxYZfSyp6DG6Pn8O-7e21wgHZVx9v9xAddHvq6Sfd0Al_icnr4Le4Q=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "اهنگ های محسن ابراهیم آفلاین",
+      "packageName": "com.Ebrahimzadeh.Mohsen.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/VlFcWFlLm78E9y5lLYmtHI1D6q8iPvuwEnmUSrFS1bxveeQxcQ0yCpfpTT2StJrAJFU=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنكـ های محسن لرستانی آفلاین",
+      "packageName": "com.Larestani.Mohsine.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/Q0kUNIkhbe_NbPO6IC2wcJVYh_IOtSa2MI3gOvjs7lE9FNT7oUwfeuaXmoZ-ifziTV8=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنكـ های مجید رضوی آفلاین",
+      "packageName": "com.Razavi.Majid.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/Fi1yKF4byrJQ5tvL71wLSIqfJasX8wjq729HB9NbZKJ67pyNVk8_XXfFZuQN64c7xno=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنكـ های أرون أفشار آفلاین",
+      "packageName": "com.Afshar.Aron.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/PeRSDCtSHNgI2FBKdlJfr45k6k3xrK1fds9HpLQ-vohI5py5n-HiW5OSqIAmAzqnVw=w240-h480-rw",
+      "download": "+100K"
+    },
+    {
+      "name": "آهنكـ های حمید هیراد آفلاین",
+      "packageName": "com.Hiraad.Hamid.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/5mm9AVBSXJEWz-CfTBDKHMihui-epBbx_DolLClQEeOt20i-GObyIc8Wcz5t18VFnQ=w240-h480-rw",
+      "download": "+1 Million"
+    },
+    {
+      "name": "آهنكـ های مهدی احمدوند آفلاین",
+      "packageName": "com.Ahmadvand.Mehdi.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/KBzX3mZzmGpU936wuKZi0WMS1PPYaS-VIXVA0sp1lC_3ndJvdjjO-80eahe7Ib0QTA=w240-h480-rw",
+      "download": "+500 Million"
+    },
+    {
+      "name": "آهنگ های معین آفلاین",
+      "packageName": "com.Moein.Asfahaane.SoksitaLtd",
+      "icon": "https://play-lh.googleusercontent.com/Sq7fcyHeZ8fDRrypGncawFJWtAhj9uSnQlr0HBjOV-6zvxZEijJLGBJ_GGAF_9i-QQ=w240-h480-rw",
+      "download": "+500 Million"
+    }
+    
+  ]
+  
+}
